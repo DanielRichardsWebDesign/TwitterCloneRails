@@ -53,7 +53,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   # Provides a better error page for Rails and other Rack apps.
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
   gem 'guard', '~> 2.15'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 end
